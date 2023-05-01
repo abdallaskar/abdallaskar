@@ -28,19 +28,20 @@ Streaming)
 
 
 
-![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
-![Pug.js](https://img.shields.io/badge/-Pug-013?style=for-the-badge&logo=pug)&nbsp;
-![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-013?style=for-the-badge&logo=redux)&nbsp;
-![Angular.js](https://img.shields.io/badge/-Angular-013?style=for-the-badge&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-013?style=for-the-badge&logo=jest)&nbsp;
-![WebPack](https://img.shields.io/badge/-WebPack-013?style=for-the-badge&logo=WebPack)&nbsp;
-![React.native](https://img.shields.io/badge/-React%20Native-013?style=for-the-badge&logo=react)&nbsp;
+![C](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
+![Embedded C](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Testing](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
+![AVR](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
+![ARM](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
+![TIVA C](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
+![Communcation protocol](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![UART,SPI,I2C](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![RTOS](https://img.shields.io/badge/-Pug-013?style=for-the-badge&logo=pug)&nbsp;
+![Automotive Communcation protocol](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![CAN,LIN,Ethernet](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
+![python](https://img.shields.io/badge/-Jest-013?style=for-the-badge&logo=jest)&nbsp;
+![linux](https://img.shields.io/badge/-WebPack-013?style=for-the-badge&logo=WebPack)&nbsp;
+![Embedded Linux](https://img.shields.io/badge/-React%20Native-013?style=for-the-badge&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-013?style=for-the-badge&logo=Flutter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
@@ -55,15 +56,4 @@ Streaming)
 ![Netlify](https://img.shields.io/badge/netlify-013.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 <br/><br/>
 
-<details> 
-  <summary><h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> Github Stats and Activity</h2></summary>
-  
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=m-ashmawy&border_radius=10&exclude_days=Fri" height="180px"/>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/?username=m-ashmawy&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ashmawy&langs_count=8&layout=compact&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00&hide=Jupyter%20Notebook,Roff" height="180px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
