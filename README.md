@@ -28,7 +28,7 @@ Streaming)
 
 
 
-![C](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
+![C](https://img.shields.io/badge/-C-013?style=for-the-badge&logo=HTML5)&nbsp;
 ![Embedded C](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Testing](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
 ![AVR](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
