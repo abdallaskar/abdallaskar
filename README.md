@@ -10,7 +10,7 @@
 </p>
 
 
-- 🏢 I'm software Embedded Systems Enginer graduated from System and Computer department Al-Azhar university.
+- 🏢 I'm software Embedded Systems Engineer graduated from System and Computer department Al-Azhar university.
 - 🏢 I’m finish Embedded Systems Techie Degree Program at valeo.
 - 💬 Ask me about my experience with C , Embedded C , Microcontrollersor anything related Embedded Systems.
 - 🌱 I’m finish working on graduation project (Making Vehicles Transparent Through V2V Video
