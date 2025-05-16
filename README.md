@@ -44,6 +44,9 @@
 
 ## 🌟 Featured Projects
 
+
+- 📝 [Drive Easy](https://github.com/abdallaskar/DriveEasy-Cars) – A responsive car rental platform with an admin dashboard, built using Bootstrap 5, JavaScript, and Local Storage.
+     Designed to offer seamless rental experiences for customers and efficient fleet management for admins.
 - 📝 [To-Do List App](https://github.com/abdallaskar/Todo_list_app) – Responsive task organizer with dark mode & localStorage  
 - 🌤 [Weather Dashboard](https://github.com/abdallaskar/Weather_today) – Live weather data + forecast using OpenWeatherMap API  
 - 🛍 [E-Commerce Catalog](#) – Product filter, category view, and UI filtering (coming soon)
